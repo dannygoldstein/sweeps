@@ -1,5 +1,5 @@
 numpy>=1.15,<1.21
-scipy>=1.5.4
+scipy>=1.5.4,<1.7
 PyYAML
 scikit_learn==0.24.1
 jsonschema>=3.2.0
